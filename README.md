@@ -106,11 +106,3 @@ python main.py
 * AI | NLP | Computer Vision
 
 ---
-
-## ⭐ Future Improvements
-
-* Add YOLOv8 / latest models
-* Deploy as web app (Streamlit / FastAPI)
-* Improve FPS using GPU optimization
-
----
